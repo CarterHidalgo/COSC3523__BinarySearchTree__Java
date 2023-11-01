@@ -1,0 +1,8 @@
+>> MIN DATA
+36
+
+>> MAX DATA
+49
+
+>> AVG DATA
+40.151
