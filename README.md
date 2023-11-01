@@ -28,4 +28,4 @@ The workspace contains four folders
 
 ## GitHub
 
-A copy of this Java project can be found in the GitHub repository linked [here](url)
+A copy of this Java project can be found in the GitHub repository linked [here]([url](https://github.com/CarterHidalgo/COSC3523__BinarySearchTree__Java.git))
